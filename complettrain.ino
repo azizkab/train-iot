@@ -16,7 +16,7 @@ int green = 0;
 int blue = 0;
 
 // Valeurs de vitesse pour différentes couleurs entre 0 et 255  toutes les valeurs a changer en fonction du test 
-int normalSpeed = 100; // Exemple de valeur pour la vitesse normale 
+int normalSpeed = 100; // valeur pour la vitesse normale 
 int increasedSpeed = 190; //  vitesse augmentée entre  
 int maxSpeed = 255; //  vitesse maximaleentre  
 
